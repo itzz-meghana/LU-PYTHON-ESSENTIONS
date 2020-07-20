@@ -21,6 +21,5 @@ Ans: It is place where we can write the code, compile it and execute
 the code to see the corresponding output.Three different types of Code environments are :
 1. Text Editor. Ex: Visual Studio Code & Atom
 2. Integrated Development Environment. Ex: Pycharm & Spyder
-3. Notebook Environment. Ex: Jupyter Notebook.
-Download Python
+3. Notebook Environment. Ex: Jupyter Notebook
 
